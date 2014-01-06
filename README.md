@@ -1,3 +1,3 @@
 msrn
 ====
-Basic iframe test
+Android container for manifest

@@ -24,6 +24,8 @@
     <icon src="hdpi.png" gap:platform="android" gap:density="hdpi" />
     <icon src="xhdpi.png" gap:platform="android" gap:density="xhdpi" />
     
-    <gap:plugin name="nl.x-services.plugins.insomnia" version="3.0" />
-
+    <feature name="Insomnia">
+      <param name="android-package" value="nl.xservices.plugins.Insomnia" />
+    </feature>
+    
 </widget>
